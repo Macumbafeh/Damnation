@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: Damnation
+## Author: Pyralis
+## Version: 1.0
+## Notes: Remove salvation automatically if wearing a specific item.
+## SavedVariablesPerCharacter: DamnationSave
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+Damnation.lua
